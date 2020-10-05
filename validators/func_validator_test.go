@@ -3,7 +3,7 @@ package validators
 import (
 	"testing"
 
-	"github.com/gobuffalo/validate/v3"
+	"github.com/drlogout/validate/v3"
 	"github.com/stretchr/testify/require"
 )
 

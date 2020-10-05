@@ -3,7 +3,7 @@ package validators
 import (
 	"fmt"
 
-	"github.com/gobuffalo/validate/v3"
+	"github.com/drlogout/validate/v3"
 )
 
 // IntsAreEqual is a validator that will compare two integers and add
